@@ -14,7 +14,7 @@ A custom SpeciesNet server that extends Google's wildlife detection model to aut
 ### Pull from GitHub Container Registry
 
 ```bash
-docker pull ghcr.io/fabcontigiani/wildlife-detection-capstone-project:master
+docker pull ghcr.io/fabcontigiani/wildlife-detection-capstone-project:latest
 ```
 
 ### Or Build Locally
